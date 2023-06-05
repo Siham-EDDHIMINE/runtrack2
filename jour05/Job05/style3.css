@@ -1,0 +1,22 @@
+/* style3.css */
+body {
+    background-color: lightpink;
+}
+
+form {
+    font-family: 'Georgia', serif;
+    font-size: 22px;
+}
+
+input[type="submit"] {
+    background-color: red;
+    color: white;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkred;
+}

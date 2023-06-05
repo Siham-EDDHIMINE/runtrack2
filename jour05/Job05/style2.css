@@ -1,0 +1,22 @@
+/* style2.css */
+body {
+    background-color: lightgreen;
+}
+
+form {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkgreen;
+}
